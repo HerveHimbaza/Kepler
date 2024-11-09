@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>The Computer</title>
+</head>
+<body>
+
+<h1>Hardward</h1>
+<p>Computer include mouse and keyboard.</p>
+
+</body>
+</html>
