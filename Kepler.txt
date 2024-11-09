@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>kepler college</title>
+</head>
+<body> 
+
+<h1>Hello student!</h1>
+<p>This is the new module we are going to take.</p>
+
+</body>
+</html>
